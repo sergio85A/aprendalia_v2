@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width"/>
+<title>Estudio Mágico Mejorado</title>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<select id="subject" onchange="cambiarAsignatura()" style="display:none">
+  <option value="">Elige asignatura</option>
+  <option value="Lengua">Lengua</option>
+  <option value="Inglés">Inglés</option>
+  <option value="Matemáticas">Matemáticas</option>
+  <option value="Socials">Socials</option>
+  <option value="Naturals">Naturals</option>
+</select><br/>
+
+<div id="welcome">
+  <img src="girl.png" alt="Niña estudiando" style="width:200px;display:block;margin:20px auto;"/>
+  <h2>Bienvenido a Estudio Mágico! 🌟</h2>
+  <p>Introduce tu nombre y la contraseña para empezar:</p>
+  <input type="text" id="name" placeholder="Nombre"/><br/>
+  <input type="password" id="pass" placeholder="Contraseña"/><br/>
+  <button onclick="login()">Entrar</button>
+</div>
+
+<div id="game" style="display:none">
+  <h3 id="question"></h3>
+  <div id="answers"></div>
+  <div id="solucion" style="display:none;"></div>
+  <input type="text" id="writeAnswer" style="display:none; margin-top:10px; width:80%; padding:8px;"/>
+  <button id="checkBtn" style="display:none; margin-top:10px;" onclick="checkWrite()">Comprobar</button>
+  <button onclick="reportar()">⚠️ Pregunta confusa</button>
+  <p id="feedback"></p>
+  <p id="score">Puntos: 0</p>
+  <button id="next" onclick="nextQ()">Siguiente</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

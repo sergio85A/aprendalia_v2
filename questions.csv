@@ -1,0 +1,609 @@
+id,asignatura,tipo,pregunta,opciones,respuesta_correcta,extra
+I030,Inglés,arrastrar,Drag the countries to the correct continent,Canada|Spain|India,America|Europe|Asia,Pista: continente
+I49,Inglés,arrastrar,Drag the countries to the correct continent,Spain|India|USA,Europe|Asia|America,
+I48,Inglés,arrastrar,Drag the words to the correct group,Apple|Banana|Chair,Fruit|Fruit|Object,
+I005,Inglés,arrastrar,Drag words to the correct group,Apple|Chair|Banana,Fruit|Fruit|Object,Pista: clasifica correctamente
+I32,Inglés,arrastrar,Match the country with the fruit,Banana|Apple|Orange,Brazil|USA|Spain,
+I31,Inglés,arrastrar,Match the fruit with the country,Orange|Mango|Apple,Spain|India|USA,
+I019,Inglés,arrastrar,Match country with fruit,Brazil|USA|Spain,Banana|Apple|Orange,Pista: fruta típica
+I039,Inglés,arrastrar,Match country with fruit,Spain|Brazil|USA,Orange|Banana|Apple,Pista: fruta típica
+I009,Inglés,arrastrar,Match country with fruit,Spain|India|USA,Orange|Mango|Apple,Pista: fruta típica
+I239,Inglés,arrastrar,Match country with fruit,USA|Spain|India,Apple|Orange|Mango,Pista: fruta típica
+I034,Inglés,arrastrar,Match the fruit with the country,Apple|Mango|Banana,USA|India|Brazil,Pista: fruta típica
+I004,Inglés,arrastrar,Match the fruit with the country,Apple|Mango|Orange,USA|India|Spain,Pista: fruta y país
+I154,Inglés,arrastrar,Match the fruit with the country,Apple|Orange|Mango,USA|Spain|India,Pista: fruta típica
+I044,Inglés,arrastrar,Match the fruit with the country,Mango|Orange|Apple,India|Spain|USA,Pista: fruta típica
+I024,Inglés,arrastrar,Match the fruit with the country,Mango|Orange|Banana,India|Spain|Brazil,Pista: fruta típica
+I054,Inglés,arrastrar,Match the fruit with the country,Orange|Apple|Banana,Spain|USA|Brazil,Pista: fruta típica
+I014,Inglés,arrastrar,Match the fruit with the country,Orange|Banana|Apple,Spain|Brazil|USA,Pista: fruta típica
+I35,Inglés,escribir,Write a country in English,,Spain,
+I33,Inglés,escribir,Write a fruit in English,,Apple,
+I36,Inglés,escribir,Write another country in English,,Canada,
+I34,Inglés,escribir,Write another fruit in English,,Banana,
+I051,Inglés,escribir,Write the country: Brazil,,Brazil,Pista: América del Sur
+I191,Inglés,escribir,Write the country: Canada,,Canada,Pista: América del Norte
+I001,Inglés,escribir,Write the country: Canada,,Canada,Pista: North America
+I041,Inglés,escribir,Write the country: China,,China,Pista: Asia
+I211,Inglés,escribir,Write the country: India,,India,Pista: Asia
+I021,Inglés,escribir,Write the country: Mexico,,Mexico,Pista: América
+I231,Inglés,escribir,Write the country: New Zealand,,New Zealand,Pista: Oceania
+I031,Inglés,escribir,Write the country: Poland,,Poland,Pista: Europa
+I131,Inglés,escribir,Write the country: Poland,,Poland,Pista: Europa
+I201,Inglés,escribir,Write the country: Poland,,Poland,Pista: Europa
+I011,Inglés,escribir,Write the country: Spain,,Spain,Pista: Europa
+I121,Inglés,escribir,Write the country: UK,,UK,Pista: Europa
+I091,Inglés,escribir,Write the country: UK,,UK,Pista: Europe
+I161,Inglés,escribir,Write the country: UK,,UK,Pista: Europe
+I081,Inglés,escribir,Write the country: USA,,USA,Pista: América del Norte
+I151,Inglés,escribir,Write the country: USA,,USA,Pista: North America
+I038,Inglés,ordenar,Order the sentence: I / like / apple,I like apple,I like apple,Pista: sujeto-verbo-objeto
+I058,Inglés,ordenar,Order the sentence: I / like / banana,I like banana,I like banana,Pista: sujeto-verbo-objeto
+I008,Inglés,ordenar,Order the sentence: I / like / mango,I like mango,I like mango,Pista: sujeto-verbo-objeto
+I168,Inglés,ordenar,Order the sentence: They / like / apples,They like apples,They like apples,Pista: sujeto-verbo-objeto
+I218,Inglés,ordenar,Order the sentence: They / like / apple,They like apple,They like apple,Pista: sujeto-verbo-objeto
+I238,Inglés,ordenar,Order the sentence: They / like / banana,They like banana,They like banana,Pista: sujeto-verbo-objeto
+I048,Inglés,ordenar,Order the sentence: They / like / mango,They like mango,They like mango,Pista: sujeto-verbo-objeto
+I37,Inglés,ordenar,Order the sentence,These|are|apples,These|are|apples,
+I38,Inglés,ordenar,Order the sentence,Those|are|bananas,Those|are|bananas,
+I063,Inglés,ordenar,Order the words to make a sentence,He|likes|apple,He likes apple,He likes apple
+I223,Inglés,ordenar,Order the words to make a sentence,He|likes|banana,He likes banana,He likes banana
+I033,Inglés,ordenar,Order the words to make a sentence,He|likes|mango,He likes mango,He likes mango
+I133,Inglés,ordenar,Order the words to make a sentence,He|likes|mango,He likes mango,He likes mango
+I003,Inglés,ordenar,Order the words to make a sentence,I|like|apples,I like apples,Pista: sujeto-verbo-objeto
+I073,Inglés,ordenar,Order the words to make a sentence,She|likes|apple,She likes apple,She likes apple
+I173,Inglés,ordenar,Order the words to make a sentence,She|likes|banana,She likes banana,She likes banana
+I053,Inglés,ordenar,Order the words to make a sentence,We|like|apples,We like apples,We like apples
+I123,Inglés,ordenar,Order the words to make a sentence,We|like|apples,We like apples,We like apples
+I193,Inglés,ordenar,Order the words to make a sentence,We|like|apples,We like apples,We like apples
+I233,Inglés,ordenar,Order the words to make a sentence,We|like|apple,We like apple,We like apple
+I153,Inglés,ordenar,Order the words to make a sentence,We|like|bananas,We like bananas,We like bananas
+I023,Inglés,ordenar,Order the words to make a sentence,We|like|fruits,We like fruits,Pista: sujeto-verbo-objeto
+I093,Inglés,ordenar,Order the words to make a sentence,We|like|fruits,We like fruits,We like fruits
+I113,Inglés,ordenar,Order the words to make a sentence,We|like|fruits,We like fruits,We like fruits
+I163,Inglés,ordenar,Order the words to make a sentence,We|like|fruits,We like fruits,We like fruits
+I083,Inglés,ordenar,Order the words to make a sentence,We|like|mango,We like mango,We like mango
+I183,Inglés,ordenar,Order the words to make a sentence,We|like|mango,We like mango,We like mango
+I243,Inglés,ordenar,Order the words to make a sentence,We|like|mango,We like mango,We like mango
+I46,Inglés,test,Choose the correct possessive: ___ apple (for a girl),Her|His|Our,Her,
+I12,Inglés,test,Choose the correct possessive: ___ bag (for a girl),Her|His|Their,Her,
+I47,Inglés,test,Choose the correct possessive: ___ banana (for a boy),His|Her|Their,His,
+I11,Inglés,test,Choose the correct possessive: ___ book (for a boy),His|Her|Our,His,
+I13,Inglés,test,Choose the correct possessive: ___ house (for us),Our|Their|His,Our,
+I14,Inglés,test,Choose the correct possessive: ___ toys (for them),Their|Our|Her,Their,
+I287,Inglés,test,Choose the correct spelling,Apple|Applle|Aple,Apple,Pista: fruta roja
+I265,Inglés,test,Choose the correct spelling,Applle|Apple|Aple,Apple,Pista: fruta roja
+I253,Inglés,test,Choose the correct spelling,Appple|Apple|Aple,Apple,Pista: fruta roja
+I286,Inglés,test,Choose the correct spelling,Banana|Bannana|Bananna,Banana,Pista: fruta amarilla
+I254,Inglés,test,Choose the correct spelling,Bannana|Banana|Bananna,Banana,Pista: fruta amarilla
+I264,Inglés,test,Choose the correct spelling,Benana|Banana|Bannna,Banana,Pista: fruta amarilla
+I257,Inglés,test,Choose the correct spelling,Caneda|Canada|Cannda,Canada,Pista: Norteamérica
+I270,Inglés,test,Choose the correct spelling,Cannda|Canada|Caneda,Canada,Pista: Norteamérica
+I255,Inglés,test,Choose the correct spelling,Chine|China|Chinna,China,Pista: país en Asia
+I268,Inglés,test,Choose the correct spelling,Chinna|China|Chine,China,Pista: país de Asia
+I275,Inglés,test,Choose the correct spelling,Day|Dai|Daay,Day,Pista: unidad de tiempo
+I294,Inglés,test,Choose the correct spelling,Day|Dai|Daay,Day,Pista: unidad de tiempo
+I278,Inglés,test,Choose the correct spelling,Her|Herr|Hir,Her,Pista: posesivo de ella
+I277,Inglés,test,Choose the correct spelling,His|Hiss|Hiz,His,Pista: posesivo de él
+I256,Inglés,test,Choose the correct spelling,Indea|India|Indiia,India,Pista: país de Asia
+I269,Inglés,test,Choose the correct spelling,Indiia|India|Indea,India,Pista: país de Asia
+I267,Inglés,test,Choose the correct spelling,Manggo|Mango|Manngo,Mango,Pista: fruta tropical
+I252,Inglés,test,Choose the correct spelling,Mango|Manggo|Manngo,Mango,Pista: fruta tropical
+I288,Inglés,test,Choose the correct spelling,Mango|Manggo|Manngo,Mango,Pista: fruta tropical
+I258,Inglés,test,Choose the correct spelling,Neew Zeland|New Zealand|New Zeland,New Zealand,Pista: país en Oceanía
+I289,Inglés,test,Choose the correct spelling,Orange|Oranje|Oranj,Orange,Pista: fruta cítrica
+I261,Inglés,test,Choose the correct spelling,Oranje|Orange|Oranj,Orange,Pista: fruta cítrica
+I279,Inglés,test,Choose the correct spelling,Our|Ourr|Or,Our,Pista: posesivo de nosotros
+I273,Inglés,test,Choose the correct spelling,Play|Plai|Playt,Play,Pista: verbo: jugar
+I292,Inglés,test,Choose the correct spelling,Play|Plai|Playy,Play,Pista: verbo: jugar
+I284,Inglés,test,Choose the correct spelling,Playground|Playgrond|Plaayground,Playground,Pista: lugar para jugar
+I263,Inglés,test,Choose the correct spelling,Raain|Rain|Raine,Rain,Pista: contiene "ai"
+I271,Inglés,test,Choose the correct spelling,Rain|Raain|Raine,Rain,Pista: contiene "ai"
+I290,Inglés,test,Choose the correct spelling,Rainbow|Raiinbow|Rainbaw,Rainbow,Pista: arco en el cielo
+I274,Inglés,test,Choose the correct spelling,Say|Sai|Sayy,Say,Pista: verbo: decir
+I293,Inglés,test,Choose the correct spelling,Say|Sai|Sayy,Say,Pista: verbo: decir
+I266,Inglés,test,Choose the correct spelling,Spainn|Spain|Spane,Spain,Pista: país en Europa
+I251,Inglés,test,Choose the correct spelling,Spane|Spain|Spayn,Spain,Pista: país en Europa
+I262,Inglés,test,Choose the correct spelling,Stawberry|Strawberry|Strawbery,Strawberry,Pista: fruta roja
+I285,Inglés,test,Choose the correct spelling,Strawberry|Strawbery|Strawberri,Strawberry,Pista: fruta roja
+I283,Inglés,test,Choose the correct spelling,That|Thaat|Tat,That,Pista: singular lejos del hablante
+I276,Inglés,test,Choose the correct spelling,Their|Thier|There,Their,Pista: posesivo de ellos
+I295,Inglés,test,Choose the correct spelling,Their|Thier|There,Their,Pista: posesivo de ellos
+I280,Inglés,test,Choose the correct spelling,These|Thes|Thees,These,Pista: cerca del hablante
+I282,Inglés,test,Choose the correct spelling,This|Thiss|Thiz,This,Pista: singular cerca del hablante
+I281,Inglés,test,Choose the correct spelling,Those|Thos|Thoose,Those,Pista: lejos del hablante
+I272,Inglés,test,Choose the correct spelling,Train|Traiin|Trane,Train,Pista: vehículo sobre rieles
+I291,Inglés,test,Choose the correct spelling,Train|Trane|Traain,Train,Pista: vehículo sobre rieles
+I259,Inglés,test,Choose the correct spelling,UK|U.K.|Unk,UK,Pista: país en Europa
+I260,Inglés,test,Choose the correct spelling,USA|US|U.S.A.,USA,Pista: América del Norte
+I21,Inglés,test,Choose the correct word: ___ are apples (near),These|Those,These,
+I22,Inglés,test,Choose the correct word: ___ are bananas (far),Those|These,Those,
+I027,Inglés,test,Choose the correct: These/Those,These|Those,These,Pista: cerca
+I137,Inglés,test,Choose the correct: These/Those,Those|These,Those,Pista: lejos
+I6,Inglés,test,Which country is Brazil?,Brazil|Spain|Poland,Brazil,
+I5,Inglés,test,Which country is Canada?,Canada|China|Brazil,Canada,
+I3,Inglés,test,Which country is China?,China|Canada|Poland,China,
+I41,Inglés,test,Which country is in America?,Mexico|China|Poland,Mexico,
+I42,Inglés,test,Which country is in Asia?,China|Spain|Brazil,China,
+I40,Inglés,test,Which country is in Europe?,Spain|India|China,Spain,
+I4,Inglés,test,Which country is India?,India|USA|UK,India,
+I2,Inglés,test,Which country is Mexico?,Mexico|Brazil|India,Mexico,
+I10,Inglés,test,Which country is New Zealand?,New Zealand|Australia|Canada,New Zealand,
+I7,Inglés,test,Which country is Poland?,Poland|Portugal|Peru,Poland,
+I1,Inglés,test,Which country is Spain?,Spain|Mexico|China,Spain,
+I8,Inglés,test,Which country is the UK?,UK|USA|Canada,UK,
+I9,Inglés,test,Which country is the USA?,USA|UK|India,USA,
+I30,Inglés,test,Which fruit is green?,Pear|Banana|Strawberry,Pear,
+I29,Inglés,test,Which fruit is red?,Apple|Lemon|Pear,Apple,
+I28,Inglés,test,Which fruit is yellow?,Banana|Apple|Grape,Banana,
+I25,Inglés,test,Which one is a fruit?,Apple|Chair|Table,Apple,
+I26,Inglés,test,Which one is a fruit?,Banana|Car|Book,Banana,
+I27,Inglés,test,Which one is a fruit?,Orange|Pen|Bag,Orange,
+I17,Inglés,test,Which word has the sound “ai”?,Rain|Play|Toy,Rain,
+I18,Inglés,test,Which word has the sound “ay”?,Play|Rain|Book,Play,
+I50,Inglés,test,Which word has the sound “ay”?,Play|Rain|Tree,Play,
+I072,Inglés,test,Which word is correct? His/Her/Our/Their,Her|His|Our|Their,Her,Pista: pertenece a ella
+I102,Inglés,test,Which word is correct? His/Her/Our/Their,Her|His|Our|Their,Her,Pista: pertenece a ella
+I142,Inglés,test,Which word is correct? His/Her/Our/Their,Her|His|Our|Their,Her,Pista: pertenece a ella
+I172,Inglés,test,Which word is correct? His/Her/Our/Their,Her|His|Our|Their,Her,Pista: pertenece a ella
+I212,Inglés,test,Which word is correct? His/Her/Our/Their,Her|His|Our|Their,Her,Pista: pertenece a ella
+I222,Inglés,test,Which word is correct? His/Her/Our/Their,Her|His|Our|Their,Her,Pista: pertenece a ella
+I042,Inglés,test,Which word is correct? His/Her/Our/Their,His|Her|Our|Their,Her,Pista: pertenece a ella
+I012,Inglés,test,Which word is correct? His/Her/Our/Their,His|Her|Our|Their,Her,Pista: pertenece a una chica
+I002,Inglés,test,Which word is correct? His/Her/Our/Their,His|Her|Our|Their,His,Pista: belongs to a boy
+I152,Inglés,test,Which word is correct? His/Her/Our/Their,His|Her|Our|Their,His,Pista: belongs to a boy
+I082,Inglés,test,Which word is correct? His/Her/Our/Their,His|Her|Our|Their,His,Pista: pertenece a un chico
+I122,Inglés,test,Which word is correct? His/Her/Our/Their,His|Her|Our|Their,His,Pista: pertenece a un chico
+I182,Inglés,test,Which word is correct? His/Her/Our/Their,His|Her|Our|Their,His,Pista: pertenece a un chico
+I232,Inglés,test,Which word is correct? His/Her/Our/Their,His|Her|Our|Their,His,Pista: pertenece a un chico
+I022,Inglés,test,Which word is correct? His/Her/Our/Their,His|Her|Our|Their,Our,Pista: grupo
+I052,Inglés,test,Which word is correct? His/Her/Our/Their,Our|His|Her|Their,Our,Pista: grupo
+I092,Inglés,test,Which word is correct? His/Her/Our/Their,Our|His|Her|Their,Our,Pista: grupo
+I112,Inglés,test,Which word is correct? His/Her/Our/Their,Our|His|Her|Their,Our,Pista: grupo
+I162,Inglés,test,Which word is correct? His/Her/Our/Their,Our|His|Her|Their,Our,Pista: grupo
+I192,Inglés,test,Which word is correct? His/Her/Our/Their,Our|His|Her|Their,Our,Pista: grupo
+I242,Inglés,test,Which word is correct? His/Her/Our/Their,Our|His|Her|Their,Our,Pista: grupo
+I032,Inglés,test,Which word is correct? His/Her/Our/Their,Their|His|Her|Our,Their,Pista: pertenece a ellos
+I062,Inglés,test,Which word is correct? His/Her/Our/Their,Their|His|Her|Our,Their,Pista: pertenece a ellos
+I132,Inglés,test,Which word is correct? His/Her/Our/Their,Their|His|Her|Our,Their,Pista: pertenece a ellos
+I202,Inglés,test,Which word is correct? His/Her/Our/Their,Their|His|Her|Our,Their,Pista: pertenece a ellos
+I39,Inglés,test,Which word is NOT a fruit?,Chair|Apple|Banana,Chair,
+I43,Inglés,verdadero_falso,Apple is a fruit,Verdadero|Falso,VERDADERO,
+I44,Inglés,verdadero_falso,Banana is a fruit,Verdadero|Falso,VERDADERO,
+I45,Inglés,verdadero_falso,Chair is a fruit,Verdadero|Falso,FALSO,
+I16,Inglés,verdadero_falso,Her is used for a boy,Verdadero|Falso,FALSO,
+I15,Inglés,verdadero_falso,His is used for a boy,Verdadero|Falso,VERDADERO,
+I20,Inglés,verdadero_falso,Play has the sound “ay”,Verdadero|Falso,VERDADERO,
+I19,Inglés,verdadero_falso,Rain has the sound “ai”,Verdadero|Falso,VERDADERO,
+I23,Inglés,verdadero_falso,These is used for things near,Verdadero|Falso,VERDADERO,
+I24,Inglés,verdadero_falso,Those is used for things near,Verdadero|Falso,FALSO,
+L21,Lengua,arrastrar,Campo semántico de música,Guitarra|Verso|Tambor,Instrumento|Poesía|Instrumento,
+L22,Lengua,arrastrar,Clasifica instrumentos,Violín|Flauta|Tambor,Cuerda|Viento|Percusión,
+L40,Lengua,arrastrar,Clasifica textos,Poema|Noticia,Poesía|Informativo,
+L36,Lengua,arrastrar,Instrumento y sonido,Guitarra|Flauta|Tambor,Cuerdas|Aire|Golpes,
+L7,Lengua,arrastrar,Partes de la guitarra,Cuerdas|Clavijas|Caja de resonancia,Sonido|Afinar|Resonancia,
+L45,Lengua,arrastrar,Poema y partes,Título|Verso,Nombre|Línea,
+L015,Lengua,arrastrar,Relaciona arpa con instrumentos similares,Arpa|Flauta|Tambor,Cuerda|Viento|Percusión,Pista: compara familias
+L30,Lengua,arrastrar,Relaciona concepto y definición,Verso|Poema|Rima,Línea|Texto|Sonido,
+L005,Lengua,arrastrar,Relaciona concepto y definición,Verso|Poema|Rima,Línea|Texto|Sonido,Pista: cada concepto con su definición
+L025,Lengua,arrastrar,Relaciona familias de instrumentos,Violín|Flauta|Tambor,Cuerda|Viento|Percusión,Pista: observa sonido
+L3,Lengua,arrastrar,Relaciona instrumento y familia,Violín|Flauta|Tambor,Cuerda|Viento|Percusión,
+L010,Lengua,arrastrar,Relaciona instrumento y familia,Violín|Flauta|Tambor,Cuerda|Viento|Percusión,Pista: revisa el tipo de instrumento
+L060,Lengua,arrastrar,Relaciona instrumentos con familias,Violín|Flauta|Tambor,Cuerda|Viento|Percusión,Pista: tipo de sonido
+L035,Lengua,arrastrar,Relaciona instrumentos y familias,Violín|Flauta|Tambor,Cuerda|Viento|Percusión,Pista: cada instrumento con su familia
+L050,Lengua,arrastrar,Relaciona instrumentos y familia,Violín|Flauta|Tambor,Cuerda|Viento|Percusión,Pista: familia correcta
+L030,Lengua,arrastrar,Relaciona poema y partes,Título|Verso|Rima,Línea|Texto|Sonido,Pista: identifica cada parte
+L020,Lengua,arrastrar,Relaciona poemas con su contenido,Lírico|Épico|Narrativo,Sentimientos|Historia|Relato,Pista: usa el tipo de poema
+L055,Lengua,arrastrar,Relaciona poemas con tipos,Lírico|Épico|Narrativo,Sentimiento|Historia|Relato,Pista: tipo de poema
+L070,Lengua,arrastrar,Relaciona poemas y su tipo,Lírico|Épico|Narrativo,Sentimiento|Historia|Relato,Pista: clasifica según contenido
+L040,Lengua,arrastrar,Relaciona poemas y versos,Lírico|Épico|Narrativo,Sentimientos|Historia|Relato,Pista: observa contenido
+L009,Lengua,arrastrar,Empareja cada poema con su tipo,Poema lírico|Poema épico,Lírico|Épico,Pista: piensa en la intención del poema
+L024,Lengua,arrastrar,Empareja concepto y definición de verso,Verso1|Verso2|Verso3,Línea|Línea|Línea,Pista: cada verso es una línea
+L084,Lengua,arrastrar,Empareja familia con instrumento,Cuerda|Viento|Percusión,Violín|Flauta|Tambor,Pista: revisa el sonido
+L119,Lengua,arrastrar,Empareja familia con instrumento,Cuerda|Viento|Percusión,Violín|Flauta|Tambor,Pista: revisa sonido
+L064,Lengua,arrastrar,Empareja familia y ejemplo,Cuerda|Viento|Percusión,Violín|Flauta|Tambor,Pista: cada instrumento con familia
+L054,Lengua,arrastrar,Empareja instrumento con familia,Oboe|Tambor|Guitarra,Viento|Percusión|Cuerda,Pista: identifica sonido
+L104,Lengua,arrastrar,Empareja instrumento y familia,Violín|Flauta|Tambor,Cuerda|Viento|Percusión,Pista: familia correcta
+L154,Lengua,arrastrar,Empareja instrumento y familia,Violín|Flauta|Tambor,Cuerda|Viento|Percusión,Pista: identifica tipo
+L204,Lengua,arrastrar,Empareja instrumento y familia,Violín|Flauta|Tambor,Cuerda|Viento|Percusión,Pista: identifica tipo
+L004,Lengua,arrastrar,Empareja instrumento y familia,Violín|Flauta|Tambor,Cuerda|Viento|Percusión,Pista: relaciona con su tipo de sonido
+L069,Lengua,arrastrar,Empareja instrumento y sonido,Violín|Tambor|Flauta,Cuerda|Percusión|Viento,Pista: tipo de sonido
+L044,Lengua,arrastrar,Empareja instrumentos y sonidos,Violín|Tambor|Flauta,Cuerda|Percusión|Viento,Pista: identifica sonido
+L014,Lengua,arrastrar,Empareja los instrumentos con su sonido,Violín|Tambor|Flauta,Cuerda|Percusión|Viento,Pista: piensa en cómo suenan
+L034,Lengua,arrastrar,Empareja partes de la guitarra,Clavijas|Cuerdas|Caja,Clavijas|Cuerdas|Caja,Pista: revisa la función
+L049,Lengua,arrastrar,Empareja partes de poema y función,Título|Verso|Rima,Nombre|Línea|Sonido,Pista: cada parte con su función
+L094,Lengua,arrastrar,Empareja poema y rima,Lírico|Épico|Narrativo,ABAB|AABB|ABC,Pista: patrón
+L109,Lengua,arrastrar,Empareja poemas y rimas,Lírico|Épico|Narrativo,ABAB|AABB|ABC,Pista: patrón correcto
+L039,Lengua,arrastrar,Empareja poemas y rimas,Lírico|Épico|Narrativo,ABAB|AABB|ABC,Pista: patrón de rima
+L029,Lengua,arrastrar,Empareja tipos de poemas y versos,Lírico|Épico|Narrativo,Lírico|Épico|Narrativo,Pista: cada poema con su estilo
+L019,Lengua,arrastrar,Empareja tipos de rima con ejemplos,ABAB|AABB|ABC,ABAB|AABB|ABC,Pista: cada rima con su patrón
+L32,Lengua,escribir,¿Cómo se llama el texto que usa versos?,,Poema,
+L4,Lengua,escribir,¿Cómo se llama la familia del arpa?,,Cuerda,Pista: empieza por C
+L50,Lengua,escribir,¿Cómo se llama tocar un poema en voz alta?,,Recitar,
+L12,Lengua,escribir,¿Cómo se llaman las líneas de un poema?,,Versos,
+L17,Lengua,escribir,¿Qué hay que hacer para captar la atención al recitar?,,Hablar claro,
+L10,Lengua,escribir,¿Qué instrumento se parece al arpa?,,Guitarra,
+L25,Lengua,escribir,¿Qué palabra pertenece al campo semántico de poema?,,Verso,
+L42,Lengua,escribir,¿Qué palabra rima con canción?,,Ilusión,
+L091,Lengua,escribir,Escribe instrumento de cuerda,,Viola,Pista: arco necesario
+L221,Lengua,escribir,Escribe instrumento de percusión,,Xilófono,Pista: golpeando con baquetas
+L031,Lengua,escribir,Escribe la familia de la flauta,,Viento,Pista: sopla aire
+L001,Lengua,escribir,Escribe la familia del violín,,Cuerda,Pista: pertenece a instrumentos de cuerda
+L111,Lengua,escribir,Escribe parte de guitarra,,Cuerdas,Pista: se pulsan
+L206,Lengua,escribir,Escribe parte guitarra,,Caja,Pista: resuena al tocar
+L096,Lengua,escribir,Escribe parte guitarra,,Cuerdas,Pista: se pulsa
+L131,Lengua,escribir,Escribe parte guitarra,,Cuerdas,Pista: se pulsa
+L181,Lengua,escribir,Escribe parte guitarra,,Cuerdas,Pista: se pulsa
+L236,Lengua,escribir,Escribe parte guitarra,,Cuerdas,Pista: se pulsa
+L156,Lengua,escribir,Escribe parte guitarra,,Cuerdas,Pista: se pulsa con los dedos
+L066,Lengua,escribir,Escribe un ejemplo de caligrama,,Mi caligrama,Pista: forma visual
+L036,Lengua,escribir,Escribe un ejemplo de campo semántico,,Música,Pista: palabras relacionadas
+L041,Lengua,escribir,Escribe un ejemplo de verso,,Verso1,Pista: una línea
+L106,Lengua,escribir,Escribe un instrumento de cuerda pulsada,,Guitarra,Pista: se pulsa
+L011,Lengua,escribir,Escribe un instrumento de cuerda pulsada,,Guitarra,Pista: se toca con los dedos
+L161,Lengua,escribir,Escribe un instrumento de cuerda,,Arpa,Pista: se toca con arco
+L046,Lengua,escribir,Escribe un instrumento de cuerda,,Arpa,Pista: se toca con dedos
+L071,Lengua,escribir,Escribe un instrumento de cuerda,,Viola,Pista: se toca con arco
+L126,Lengua,escribir,Escribe un instrumento de cuerda,,Viola,Pista: se toca con arco
+L176,Lengua,escribir,Escribe un instrumento de cuerda,,Viola,Pista: se toca con arco
+L211,Lengua,escribir,Escribe un instrumento de cuerda,,Viola,Pista: se toca con arco
+L051,Lengua,escribir,Escribe un instrumento de percusión atípico,,Xilófono,Pista: se golpea con baquetas
+L016,Lengua,escribir,Escribe un instrumento de percusión,,Tambor,Pista: se golpea
+L116,Lengua,escribir,Escribe un instrumento de percusión,,Xilófono,Pista: golpeando con baquetas
+L241,Lengua,escribir,Escribe un instrumento de percusión,,Xilófono,Pista: golpeando con baquetas
+L061,Lengua,escribir,Escribe un instrumento de viento atípico,,Clarinete,Pista: soplar aire
+L101,Lengua,escribir,Escribe un instrumento de viento atípico,,Fagot,Pista: sopla aire
+L006,Lengua,escribir,Escribe un instrumento de viento atípico,,Flauta,Pista: soplar aire
+L201,Lengua,escribir,Escribe un instrumento de viento atípico,,Oboe,Pista: sopla aire
+L026,Lengua,escribir,Escribe un instrumento de viento,,Oboe,Pista: sopla aire
+L151,Lengua,escribir,Escribe un instrumento de viento,,Trompeta,Pista: sopla aire
+L021,Lengua,escribir,Escribe un poema de ejemplo,,Mi poema,Pista: corta frase
+L076,Lengua,escribir,Escribe una parte de guitarra,,Cuerdas,Pista: se pulsan con dedos
+L056,Lengua,escribir,Escribe una parte de la guitarra,,Caja,Pista: resuena al tocar
+L16,Lengua,ordenar,Ordena cómo preparar un poema,Pensar el tema|Hablar claro|Aprenderlo de memoria,Pensar el tema|Hablar claro|Aprenderlo de memoria,
+L013,Lengua,ordenar,Ordena estas partes de la guitarra,Clavijas|Cuerdas|Caja,Caja|Clavijas|Cuerdas,Pista: la caja resuena
+L003,Lengua,ordenar,Ordena las partes de un poema,Verso|Rima|Título,Título|Verso|Rima,Pista: primero va el título
+L103,Lengua,ordenar,Ordena los pasos de planificación de poema,Idea|Escribir|Aprender,Idea|Escribir|Aprender,Pista: empieza con idea
+L008,Lengua,ordenar,Ordena los pasos para planificar un poema,Aprender de memoria|Hablar claro|Escribir,Escribir|Hablar claro|Aprender de memoria,Pista: empieza escribiendo
+L018,Lengua,ordenar,Ordena los versos para formar un poema,Verso1|Verso2|Verso3,Verso1|Verso2|Verso3,Pista: sigue el orden de lectura
+L228,Lengua,ordenar,Ordena palabras para caligrama,Palabra1|Palabra2|Palabra3,Palabra1|Palabra2|Palabra3,Pista: forma correcta
+L123,Lengua,ordenar,Ordena palabras para caligrama,Palabra1|Palabra2|Palabra3,Palabra1|Palabra2|Palabra3,Pista: mantiene forma
+L173,Lengua,ordenar,Ordena palabras para caligrama,Palabra1|Palabra2|Palabra3,Palabra1|Palabra2|Palabra3,Pista: mantiene forma
+L068,Lengua,ordenar,Ordena palabras para caligrama,Palabra1|Palabra2|Palabra3,Palabra1|Palabra2|Palabra3,Pista: sigue la forma
+L088,Lengua,ordenar,Ordena palabras para caligrama,PalabraA|PalabraB|PalabraC,PalabraA|PalabraB|PalabraC,Pista: forma correcta
+L143,Lengua,ordenar,Ordena palabras para caligrama,PalabraA|PalabraB|PalabraC,PalabraA|PalabraB|PalabraC,Pista: forma correcta
+L193,Lengua,ordenar,Ordena palabras para caligrama,PalabraA|PalabraB|PalabraC,PalabraA|PalabraB|PalabraC,Pista: forma correcta
+L248,Lengua,ordenar,Ordena palabras para caligrama,PalabraA|PalabraB|PalabraC,PalabraA|PalabraB|PalabraC,Pista: forma correcta
+L218,Lengua,ordenar,Ordena palabras para caligrama,PalabraA|PalabraB|PalabraC,PalabraA|PalabraB|PalabraC,Pista: mantiene forma
+L023,Lengua,ordenar,Ordena palabras para un caligrama,Palabra1|Palabra2|Palabra3,Palabra1|Palabra2|Palabra3,Pista: mantiene forma visual
+L043,Lengua,ordenar,Ordena partes de caligrama,PalabraA|PalabraB|PalabraC,PalabraA|PalabraB|PalabraC,Pista: sigue la forma
+L31,Lengua,ordenar,Ordena partes de la guitarra,Caja|Cuerdas|Clavijas,Caja|Cuerdas|Clavijas,
+L038,Lengua,ordenar,Ordena pasos de aprendizaje de poema,Escribir|Hablar|Aprender de memoria,Escribir|Hablar|Aprender de memoria,Pista: sigue la secuencia
+L058,Lengua,ordenar,Ordena pasos para captar atención,Gestos|Voz|Mirada,Mirada|Gestos|Voz,Pista: primero observa
+L028,Lengua,ordenar,Ordena pasos para captar atención,Leer claro|Gestos|Voz,Leer claro|Gestos|Voz,Pista: piensa cómo captar atención
+L108,Lengua,ordenar,Ordena pasos para captar atención,Mirada|Gestos|Voz,Mirada|Gestos|Voz,Pista: primero observa
+L163,Lengua,ordenar,Ordena pasos para escribir poema,Idea|Escribir|Aprender,Idea|Escribir|Aprender,Pista: empieza con idea
+L073,Lengua,ordenar,Ordena pasos para escribir poema,Idea|Escribir|Leer,Idea|Escribir|Leer,Pista: empieza con idea
+L203,Lengua,ordenar,Ordena pasos para escribir un poema,Idea|Escribir|Aprender,Idea|Escribir|Aprender,Pista: empieza con idea
+L053,Lengua,ordenar,Ordena pasos para escribir un poema,Idea|Escribir|Leer,Idea|Escribir|Leer,Pista: empieza pensando
+L153,Lengua,ordenar,Ordena pasos para memorizar poema,Leer|Repetir|Aprender,Leer|Repetir|Aprender,Pista: repite varias veces
+L083,Lengua,ordenar,Ordena pasos para memorizar poema,Leer|Repetir|Recordar,Leer|Repetir|Recordar,Pista: repite cada día
+L063,Lengua,ordenar,Ordena pasos para memorizar un poema,Leer|Repetir|Recordar,Leer|Repetir|Recordar,Pista: repite para aprender
+L47,Lengua,ordenar,Ordena un poema,Título|Versos|Rima,Título|Versos|Rima,
+L033,Lengua,ordenar,Ordena versos de caligrama,VersoA|VersoB|VersoC,VersoA|VersoB|VersoC,Pista: sigue el orden visual
+L098,Lengua,ordenar,Ordena versos de poema corto,Verso1|Verso2|Verso3,Verso1|Verso2|Verso3,Pista: seguir orden
+L133,Lengua,ordenar,Ordena versos de poema corto,Verso1|Verso2|Verso3,Verso1|Verso2|Verso3,Pista: seguir orden
+L183,Lengua,ordenar,Ordena versos de poema corto,Verso1|Verso2|Verso3,Verso1|Verso2|Verso3,Pista: seguir orden
+L238,Lengua,ordenar,Ordena versos de poema corto,Verso1|Verso2|Verso3,Verso1|Verso2|Verso3,Pista: seguir orden
+L048,Lengua,ordenar,Ordena versos de poema corto,Verso1|Verso2|Verso3,Verso1|Verso2|Verso3,Pista: sigue el orden
+L113,Lengua,ordenar,Ordena versos de poema corto,Verso1|Verso2|Verso3,Verso1|Verso2|Verso3,Pista: sigue orden
+L158,Lengua,ordenar,Ordena versos de poema corto,Verso1|Verso2|Verso3,Verso1|Verso2|Verso3,Pista: sigue orden
+L208,Lengua,ordenar,Ordena versos de poema corto,Verso1|Verso2|Verso3,Verso1|Verso2|Verso3,Pista: sigue orden
+L078,Lengua,ordenar,Ordena versos para poema corto,Verso1|Verso2|Verso3,Verso1|Verso2|Verso3,Pista: sigue orden lógico
+L022,Lengua,test,¿Cuál es la característica de un caligrama?,Forma de dibujo|Verso|Rima,Forma de dibujo,Pista: se ve como imagen
+L042,Lengua,test,¿Cuál es la característica de un poema?,Rima|Verso|Estrofa,Rima,Pista: final similar
+L247,Lengua,test,¿Cuál es la función de un verso?,Expresar|Contar|Golpear,Expresar,Pista: línea con sentido
+L002,Lengua,test,¿Cuál es la parte de la guitarra que sirve para afinar?,Clavijas|Cuerdas|Caja,Clavijas,Pista: es donde giras para ajustar
+L007,Lengua,test,¿Cuál es la parte de un poema que rima?,Verso|Estrofa|Título,Verso,Pista: es la línea que coincide al final
+L027,Lengua,test,¿Cuál es un instrumento de cuerda pulsada?,Guitarra|Trompeta|Tambor,Guitarra,Pista: se pulsa con los dedos
+L102,Lengua,test,¿Cuál es un instrumento de percusión?,Tambor|Flauta|Guitarra,Tambor,Pista: se golpea
+L032,Lengua,test,¿Cuál es un instrumento de percusión?,Tambor|Flauta|Violín,Tambor,Pista: se golpea
+L162,Lengua,test,¿Cuál es un instrumento de viento?,Saxofón|Guitarra|Tambor,Saxofón,Pista: sopla aire
+L212,Lengua,test,¿Cuál es un instrumento de viento?,Saxofón|Guitarra|Tambor,Saxofón,Pista: sopla aire
+L152,Lengua,test,¿Cuál instrumento es de percusión?,Tambor|Flauta|Guitarra,Tambor,Pista: golpea para sonar
+L202,Lengua,test,¿Cuál instrumento es de percusión?,Tambor|Flauta|Guitarra,Tambor,Pista: golpea para sonar
+L047,Lengua,test,¿Cuál instrumento es de viento?,Flauta|Guitarra|Tambor,Flauta,Pista: sopla aire
+L072,Lengua,test,¿Cuál instrumento es de viento?,Saxofón|Guitarra|Tambor,Saxofón,Pista: sopla aire
+L012,Lengua,test,¿Cuál instrumento pertenece a la familia de viento?,Flauta|Violín|Tambor,Flauta,Pista: soplas aire
+L092,Lengua,test,¿Cuál instrumento pertenece a viento?,Saxofón|Guitarra|Tambor,Saxofón,Pista: sopla aire
+L9,Lengua,test,¿Por qué se agrupan los instrumentos en familias?,Porque se tocan igual|Porque suenan parecido|Porque son grandes,Porque suenan parecido,
+L35,Lengua,test,¿Qué es rima asonante?,Repite vocales|Repite consonantes|No rima,Repite vocales,
+L14,Lengua,test,¿Qué es un caligrama?,Poema con dibujo|Cuento|Canción|Teatro,Poema con dibujo,
+L20,Lengua,test,¿Qué es un campo semántico?,Palabras relacionadas|Palabras que riman|Frases largas,Palabras relacionadas,
+L11,Lengua,test,¿Qué es un poema?,Texto con versos|Noticia|Receta|Carta,Texto con versos,
+L18,Lengua,test,¿Qué es un verso?,Cada línea del poema|El título|La rima,Cada línea del poema,
+L39,Lengua,test,¿Qué es una orquesta?,Grupo de músicos|Un instrumento|Un poema,Grupo de músicos,
+L33,Lengua,test,¿Qué familia es el violín?,Cuerda|Viento|Percusión,Cuerda,
+L037,Lengua,test,¿Qué hace captar la atención?,Mirar|Hablar|Escuchar,Hablar,Pista: cómo te diriges al público
+L5,Lengua,test,¿Qué instrumento es de cuerda pulsada?,Guitarra|Violín|Flauta|Tambor,Guitarra,
+L41,Lengua,test,¿Qué instrumento es de cuerda?,Violín|Flauta|Tambor,Violín,
+L23,Lengua,test,¿Qué instrumento es de viento atípico?,Flauta|Clarinete|Armónica|Violín,Armónica,
+L29,Lengua,test,¿Qué instrumento NO es de cuerda?,Violín|Guitarra|Arpa|Flauta,Flauta,
+L052,Lengua,test,¿Qué instrumento pertenece a cuerda pulsada?,Guitarra|Flauta|Tambor,Guitarra,Pista: se toca pulsando
+L112,Lengua,test,¿Qué instrumento pertenece a cuerda?,Guitarra|Flauta|Tambor,Guitarra,Pista: se pulsa
+L107,Lengua,test,¿Qué instrumento pertenece a viento?,Flauta|Guitarra|Tambor,Flauta,Pista: soplar aire
+L46,Lengua,test,¿Qué instrumento se pulsa?,Guitarra|Violín|Flauta,Guitarra,
+L097,Lengua,test,¿Qué instrumento se toca con las manos?,Guitarra|Flauta|Tambor,Guitarra,Pista: dedos sobre cuerdas
+L062,Lengua,test,¿Qué instrumento se toca con las manos?,Guitarra|Flauta|Tambor,Guitarra,Pista: pulsas las cuerdas
+L017,Lengua,test,¿Qué instrumento se toca pulsando cuerdas?,Guitarra|Flauta|Tambor,Guitarra,Pista: pulsas con los dedos
+L082,Lengua,test,¿Qué instrumento se toca soplando?,Flauta|Guitarra|Tambor,Flauta,Pista: aire necesario
+L117,Lengua,test,¿Qué instrumento se toca soplando?,Flauta|Guitarra|Tambor,Flauta,Pista: aire necesario
+L137,Lengua,test,¿Qué instrumento se toca soplando?,Flauta|Guitarra|Tambor,Flauta,Pista: aire necesario
+L057,Lengua,test,¿Qué instrumento se toca soplando?,Flauta|Guitarra|Tambor,Flauta,Pista: soplas aire
+L27,Lengua,test,¿Qué instrumento tiene caja de resonancia?,Guitarra|Flauta|Trompeta,Guitarra,
+L49,Lengua,test,¿Qué palabra es del campo semántico de música?,Tambor|Mesa|Silla,Tambor,
+L6,Lengua,test,¿Qué parte NO es de la guitarra?,Cuerdas|Clavijas|Caja|Boquilla,Boquilla,
+L37,Lengua,test,¿Qué se aprende al memorizar un poema?,Recitar mejor|Leer más lento|Olvidar,Recitar mejor,
+L26,Lengua,test,¿Qué sirve para captar la atención?,Hablar claro|Susurrar|No mirar,Hablar claro,
+L44,Lengua,test,¿Qué sirve para hablar claro?,Voz alta|Taparse la boca|Mirar al suelo,Voz alta,
+L15,Lengua,test,¿Qué tipo de rima repite todos los sonidos?,Consonante|Asonante|Libre,Consonante,
+L1,Lengua,test,¿Qué tipos de instrumentos hay en una orquesta?,Cuerda|Viento|Percusión|Todas,Todas,
+L34,Lengua,verdadero_falso,El arpa es de percusión,Verdadero|Falso,FALSO,
+L8,Lengua,verdadero_falso,El arpa y la guitarra tienen cuerdas,Verdadero|Falso,VERDADERO,
+L24,Lengua,verdadero_falso,La guitarra es de cuerda pulsada,Verdadero|Falso,VERDADERO,
+L48,Lengua,verdadero_falso,La poesía no se puede dibujar,Verdadero|Falso,FALSO,
+L2,Lengua,verdadero_falso,Los instrumentos se agrupan por familias porque suenan parecido,Verdadero|Falso,VERDADERO,
+L19,Lengua,verdadero_falso,Los poemas pueden tener versos cortos,Verdadero|Falso,VERDADERO,
+L38,Lengua,verdadero_falso,Los poemas se pueden recitar,Verdadero|Falso,VERDADERO,
+L28,Lengua,verdadero_falso,Un caligrama es solo un dibujo,Verdadero|Falso,FALSO,
+L13,Lengua,verdadero_falso,Un poema siempre tiene rima,Verdadero|Falso,FALSO,
+L43,Lengua,verdadero_falso,Un verso puede ser corto,Verdadero|Falso,VERDADERO,
+M001,Matemáticas,escribir,¿Qué número tiene 3 centenas, 4 decenas y 2 unidades?,,342,
+M002,Matemáticas,escribir,¿Qué número tiene 5 centenas, 0 decenas y 8 unidades?,,508,
+M003,Matemáticas,escribir,¿Qué número tiene 2 centenas, 9 decenas y 1 unidad?,,291,
+M004,Matemáticas,test,¿Cuál de estos números tiene 4 centenas?,389|402|298,402,
+M005,Matemáticas,test,¿Cuál es un número ordinal?,tercero|tres|treinta,tercero,
+M006,Matemáticas,test,¿Cuál NO es un número ordinal?,primero|segundo|dos,dos,
+M007,Matemáticas,escribir,Escribe el número anterior a 500,,499,
+M008,Matemáticas,escribir,Escribe el número posterior a 399,,400,
+M009,Matemáticas,test,¿Qué número va después en la serie? 10, 15, 20, __,25|30|35,25,Serie +5
+M010,Matemáticas,test,¿Qué número va después en la serie? 30, 28, 26, __,24|25|22,24,Serie -2
+M011,Matemáticas,escribir,Descompón 476 en centenas, decenas y unidades,,4C 7D 6U,
+M012,Matemáticas,test,¿Cuántas decenas tiene el número 340?,3|34|30,34,
+M013,Matemáticas,test,¿Cuántas centenas tiene el número 782?,7|78|70,7,
+M014,Matemáticas,escribir,¿Cuál es la centena del número 659?,,600,
+M015,Matemáticas,test,¿Cuál es la decena del número 659?,50|6|60,60,
+M016,Matemáticas,test,¿Cuál es la unidad del número 659?,9|6|5,9,
+M017,Matemáticas,escribir,Suma 10 a 300,,310,
+M018,Matemáticas,escribir,Suma 10 a 570,,580,
+M019,Matemáticas,test,¿Cuál es la centena más próxima a 472?,400|500,500,
+M020,Matemáticas,test,¿Cuál es la centena más próxima a 438?,400|500,400,
+M021,Matemáticas,escribir,Aproxima 562 a la centena más cercana,,600,
+M022,Matemáticas,escribir,Aproxima 521 a la centena más cercana,,500,
+M023,Matemáticas,test,¿Cuál número está formado por 3 centenas y 5 decenas?,350|305|530,350,
+M024,Matemáticas,test,¿Qué número es “cuatrocientos veinte y siete”?,427|472|407,427,
+M025,Matemáticas,escribir,Escribe en número: trescientos nueve,,309,
+M026,Matemáticas,escribir,Escribe en número: quinientos ochenta,,580,
+M027,Matemáticas,test,¿Cuál es mayor?,498|502,502,
+M028,Matemáticas,test,¿Cuál es menor?,601|598,598,
+M029,Matemáticas,ordenar,Ordena de menor a mayor,345|298|410,298|345|410,
+M030,Matemáticas,ordenar,Ordena de mayor a menor,720|705|699,720|705|699,
+M031,Matemáticas,arrastrar,Relaciona número y descomposición,342=3C4D2U|580=5C8D0U|409=4C0D9U,342=3C4D2U|580=5C8D0U|409=4C0D9U,
+M032,Matemáticas,arrastrar,Relaciona número y texto,300=trescientos|500=quinientos|400=cuatrocientos,300=trescientos|500=quinientos|400=cuatrocientos,
+M033,Matemáticas,escribir,Dado el número 684, escribe el anterior,,683,
+M034,Matemáticas,escribir,Dado el número 684, escribe el posterior,,685,
+M035,Matemáticas,test,¿Cuál número tiene 0 unidades?,450|452|459,450,
+M036,Matemáticas,test,¿Cuál número tiene 9 decenas?,192|290|209,290,
+M037,Matemáticas,escribir,¿Cuántas centenas hay en 999?,,9,
+M038,Matemáticas,test,¿Cuál es la centena más próxima a 501?,500|600,500,
+M039,Matemáticas,test,¿Cuál es la centena más próxima a 549?,500|600,500,
+M040,Matemáticas,escribir,Escribe tres números cuya centena más próxima sea 500,,480 510 499,
+M041,Matemáticas,test,¿Qué número se forma con 6, 2 y 9?,629|692|269,629,
+M042,Matemáticas,escribir,Forma un número con 7 centenas y 3 unidades,,703,
+M043,Matemáticas,test,¿Cuál es correcto?,8 centenas = 800|8 centenas = 80,8 centenas = 800,
+M044,Matemáticas,test,¿Qué número tiene más valor?,399|402,402,
+M045,Matemáticas,escribir,¿Cuántas decenas hay en 870?,,87,
+M046,Matemáticas,test,¿Qué viene antes en la serie? 50, 45, 40, __,35|30|38,35,
+M047,Matemáticas,escribir,Completa la serie: 100, 110, __, 130,,120,
+M048,Matemáticas,test,¿Qué número es impar?,248|351|400,351,
+M049,Matemáticas,test,¿Qué número es par?,673|589|420,420,
+M050,Matemáticas,arrastrar,Relaciona número y centena,345=300|678=600|912=900,345=300|678=600|912=900,
+M051,Matemáticas,escribir,¿Qué número tiene 9 centenas y 0 decenas?,,900,
+M052,Matemáticas,test,¿Cuál está más cerca de 600?,589|612,612,
+M053,Matemáticas,escribir,Escribe el número con 4 centenas y 7 unidades,,407,
+M054,Matemáticas,test,¿Qué número es mayor que 750?,749|752|745,752,
+M055,Matemáticas,escribir,¿Cuántas unidades tiene el número 406?,,6,
+M056,Matemáticas,test,¿Qué número NO tiene centenas?,98|305|410,98,
+M057,Matemáticas,escribir,Escribe el número posterior a 999,,1000,
+M058,Matemáticas,test,¿Cuál es correcto?,10 decenas = 100|10 decenas = 10,10 decenas = 100,
+M059,Matemáticas,ordenar,Ordena de menor a mayor,512|498|501,498|501|512,
+M060,Matemáticas,ordenar,Ordena de mayor a menor,880|905|899,905|899|880,
+M061,Matemáticas,escribir,¿Qué número tiene 1 centena, 2 decenas y 0 unidades?,,120,
+M062,Matemáticas,test,¿Cuál número tiene 7 centenas?,705|750|507,705,
+M063,Matemáticas,escribir,Descompón 905,,9C 0D 5U,
+M064,Matemáticas,test,¿Cuál número tiene 4 decenas?,240|204|420,240,
+M065,Matemáticas,escribir,¿Qué número es “seiscientos treinta y cuatro”?,,634,
+M066,Matemáticas,test,¿Cuál es mayor?,678|687,687,
+M067,Matemáticas,escribir,Completa: 200, 300, __, 500,,400,
+M068,Matemáticas,test,¿Qué número tiene 2 unidades?,512|520|502,502,
+M069,Matemáticas,escribir,¿Cuántas centenas tiene 401?,,4,
+M070,Matemáticas,test,¿Cuál es la centena más próxima a 650?,600|700,700,
+M071,Matemáticas,escribir,Aproxima 444 a la centena más cercana,,400,
+M072,Matemáticas,test,¿Qué número es correcto?,700 + 10 = 710|700 + 10 = 701,700 + 10 = 710,
+M073,Matemáticas,escribir,Suma una decena a 860,,870,
+M074,Matemáticas,test,¿Cuál número tiene 8 decenas?,180|108|801,180,
+M075,Matemáticas,escribir,Escribe el número anterior a 100,,99,
+M076,Matemáticas,test,¿Cuál es el ordinal de 5?,quinto|cinco|quince,quinto,
+M077,Matemáticas,escribir,Escribe el número posterior a 799,,800,
+M078,Matemáticas,test,¿Qué número tiene 0 decenas?,405|450|490,405,
+M079,Matemáticas,escribir,¿Cuál es la centena del número 812?,,800,
+M080,Matemáticas,test,¿Qué número está entre 399 y 401?,398|400|402,400,
+M081,Matemáticas,escribir,¿Qué número tiene 6 centenas, 1 decena y 5 unidades?,,615,
+M082,Matemáticas,escribir,¿Qué número tiene 9 centenas, 8 decenas y 0 unidades?,,980,
+M083,Matemáticas,test,¿Cuál de estos números tiene 5 decenas?,452|507|405,452,
+M084,Matemáticas,test,¿Cuál es un número ordinal?,séptimo|siete|setenta,séptimo,
+M085,Matemáticas,escribir,Escribe el número anterior a 700,,699,
+M086,Matemáticas,escribir,Escribe el número posterior a 249,,250,
+M087,Matemáticas,test,Continúa la serie: 5, 10, 15, __,18|20|25,20,Serie +5
+M088,Matemáticas,test,Continúa la serie: 40, 38, 36, __,34|35|32,34,Serie -2
+M089,Matemáticas,escribir,Descompón 834 en centenas, decenas y unidades,,8C 3D 4U,
+M090,Matemáticas,test,¿Cuántas decenas tiene el número 910?,9|91|90,91,
+M091,Matemáticas,test,¿Cuántas centenas tiene el número 405?,4|40|45,4,
+M092,Matemáticas,escribir,¿Cuál es la centena del número 374?,,300,
+M093,Matemáticas,test,¿Cuál es la decena del número 374?,70|7|60,70,
+M094,Matemáticas,test,¿Cuál es la unidad del número 374?,4|3|7,4,
+M095,Matemáticas,escribir,Suma 10 a 420,,430,
+M096,Matemáticas,escribir,Suma 10 a 690,,700,
+M097,Matemáticas,test,¿Cuál es la centena más próxima a 489?,400|500,500,
+M098,Matemáticas,test,¿Cuál es la centena más próxima a 421?,400|500,400,
+M099,Matemáticas,escribir,Aproxima 678 a la centena más cercana,,700,
+M100,Matemáticas,escribir,Aproxima 602 a la centena más cercana,,600,
+M101,Matemáticas,test,¿Qué número está formado por 9 centenas y 2 unidades?,902|920|290,902,
+M102,Matemáticas,test,¿Qué número es “seiscientos doce”?,612|621|602,612,
+M103,Matemáticas,escribir,Escribe en número: cuatrocientos ochenta,,480,
+M104,Matemáticas,escribir,Escribe en número: setecientos tres,,703,
+M105,Matemáticas,test,¿Cuál es mayor?,645|654,654,
+M106,Matemáticas,test,¿Cuál es menor?,701|698,698,
+M107,Matemáticas,ordenar,Ordena de menor a mayor,602|598|610,598|602|610,
+M108,Matemáticas,ordenar,Ordena de mayor a menor,845|832|860,860|845|832,
+M109,Matemáticas,arrastrar,Relaciona número y descomposición,615=6C1D5U|980=9C8D0U|703=7C0D3U,615=6C1D5U|980=9C8D0U|703=7C0D3U,
+M110,Matemáticas,arrastrar,Relaciona número y texto,400=cuatrocientos|600=seiscientos|900=novecientos,400=cuatrocientos|600=seiscientos|900=novecientos,
+M111,Matemáticas,escribir,Dado el número 512, escribe el anterior,,511,
+M112,Matemáticas,escribir,Dado el número 512, escribe el posterior,,513,
+M113,Matemáticas,test,¿Cuál número tiene 0 decenas?,504|540|450,504,
+M114,Matemáticas,test,¿Cuál número tiene 3 centenas?,392|305|530,305,
+M115,Matemáticas,escribir,¿Cuántas centenas hay en 876?,,8,
+M116,Matemáticas,test,¿Cuál es la centena más próxima a 599?,500|600,600,
+M117,Matemáticas,test,¿Cuál es la centena más próxima a 551?,500|600,600,
+M118,Matemáticas,escribir,Escribe tres números cuya centena más próxima sea 600,,580 610 599,
+M119,Matemáticas,test,¿Qué número se forma con 8, 4 y 1?,841|814|418,841,
+M120,Matemáticas,escribir,Forma un número con 9 centenas y 6 unidades,,906,
+M121,Matemáticas,test,¿Cuál es correcto?,5 centenas = 500|5 centenas = 50,5 centenas = 500,
+M122,Matemáticas,test,¿Qué número tiene más valor?,678|687,687,
+M123,Matemáticas,escribir,¿Cuántas decenas hay en 760?,,76,
+M124,Matemáticas,test,¿Qué viene antes en la serie? 90, 80, 70, __,60|65|75,60,
+M125,Matemáticas,escribir,Completa la serie: 300, 320, __, 360,,340,
+M126,Matemáticas,test,¿Qué número es impar?,482|615|700,615,
+M127,Matemáticas,test,¿Qué número es par?,753|681|904,904,
+M128,Matemáticas,arrastrar,Relaciona número y centena,412=400|689=600|931=900,412=400|689=600|931=900,
+M129,Matemáticas,escribir,¿Qué número tiene 2 centenas y 9 unidades?,,209,
+M130,Matemáticas,test,¿Cuál está más cerca de 800?,789|812,812,
+M131,Matemáticas,escribir,Escribe el número con 5 centenas y 4 decenas,,540,
+M132,Matemáticas,test,¿Qué número es mayor que 680?,679|682|678,682,
+M133,Matemáticas,escribir,¿Cuántas unidades tiene el número 730?,,0,
+M134,Matemáticas,test,¿Qué número NO tiene decenas?,407|470|704,407,
+M135,Matemáticas,escribir,Escribe el número posterior a 899,,900,
+M136,Matemáticas,test,¿Cuál es correcto?,100 decenas = 1000|100 decenas = 100,100 decenas = 1000,
+M137,Matemáticas,ordenar,Ordena de menor a mayor,715|702|720,702|715|720,
+M138,Matemáticas,ordenar,Ordena de mayor a menor,930|905|918,930|918|905,
+M139,Matemáticas,escribir,¿Qué número tiene 4 centenas, 0 decenas y 7 unidades?,,407,
+M140,Matemáticas,test,¿Cuál número tiene 6 centenas?,602|560|650,602,
+M141,Matemáticas,escribir,Descompón 760,,7C 6D 0U,
+M142,Matemáticas,test,¿Cuál número tiene 2 decenas?,420|402|240,420,
+M143,Matemáticas,escribir,¿Qué número es “ochocientos quince”?,,815,
+M144,Matemáticas,test,¿Cuál es mayor?,799|802,802,
+M145,Matemáticas,escribir,Completa: 450, 460, __, 480,,470,
+M146,Matemáticas,test,¿Qué número tiene 3 unidades?,483|430|348,483,
+M147,Matemáticas,escribir,¿Cuántas centenas tiene 702?,,7,
+M148,Matemáticas,test,¿Cuál es la centena más próxima a 749?,700|800,700,
+M149,Matemáticas,escribir,Aproxima 781 a la centena más cercana,,800,
+M150,Matemáticas,test,¿Qué número es correcto?,600 + 10 = 610|600 + 10 = 601,600 + 10 = 610,
+M151,Matemáticas,escribir,Suma una decena a 930,,940,
+M152,Matemáticas,test,¿Cuál número tiene 9 decenas?,890|809|980,890,
+M153,Matemáticas,escribir,Escribe el número anterior a 300,,299,
+M154,Matemáticas,test,¿Cuál es el ordinal de 9?,noveno|nueve|noventa,noveno,
+M155,Matemáticas,escribir,Escribe el número posterior a 649,,650,
+M156,Matemáticas,test,¿Qué número tiene 0 unidades?,720|702|709,720,
+M157,Matemáticas,escribir,¿Cuál es la centena del número 958?,,900,
+M158,Matemáticas,test,¿Qué número está entre 499 y 501?,498|500|502,500,
+M159,Matemáticas,escribir,Forma un número con 8 centenas y 2 decenas,,820,
+M160,Matemáticas,test,¿Cuál número tiene más valor?,873|837,873,
+M161,Matemáticas,escribir,¿Qué número tiene 7 centenas, 4 decenas y 9 unidades?,,749,
+M162,Matemáticas,escribir,¿Qué número tiene 1 centena, 0 decenas y 6 unidades?,,106,
+M163,Matemáticas,test,¿Cuál de estos números tiene 8 decenas?,182|208|820,182,
+M164,Matemáticas,test,¿Cuál es un número ordinal?,octavo|ocho|ochenta,octavo,
+M165,Matemáticas,escribir,Escribe el número anterior a 420,,419,
+M166,Matemáticas,escribir,Escribe el número posterior a 589,,590,
+M167,Matemáticas,test,Continúa la serie: 100, 90, 80, __,70|75|60,70,Serie -10
+M168,Matemáticas,test,Continúa la serie: 200, 220, 240, __,250|260|280,260,Serie +20
+M169,Matemáticas,escribir,Descompón 709 en centenas, decenas y unidades,,7C 0D 9U,
+M170,Matemáticas,test,¿Cuántas decenas tiene el número 640?,6|64|60,64,
+M171,Matemáticas,test,¿Cuántas centenas tiene el número 999?,9|99|90,9,
+M172,Matemáticas,escribir,¿Cuál es la centena del número 381?,,300,
+M173,Matemáticas,test,¿Cuál es la decena del número 381?,80|8|70,80,
+M174,Matemáticas,test,¿Cuál es la unidad del número 381?,1|3|8,1,
+M175,Matemáticas,escribir,Suma 10 a 480,,490,
+M176,Matemáticas,escribir,Suma 10 a 890,,900,
+M177,Matemáticas,test,¿Cuál es la centena más próxima a 474?,400|500,500,
+M178,Matemáticas,test,¿Cuál es la centena más próxima a 432?,400|500,400,
+M179,Matemáticas,escribir,Aproxima 615 a la centena más cercana,,600,
+M180,Matemáticas,escribir,Aproxima 684 a la centena más cercana,,700,
+M181,Matemáticas,test,¿Qué número está formado por 4 centenas y 9 unidades?,409|490|940,409,
+M182,Matemáticas,test,¿Qué número es “setecientos cuarenta y dos”?,742|724|702,742,
+M183,Matemáticas,escribir,Escribe en número: novecientos uno,,901,
+M184,Matemáticas,escribir,Escribe en número: trescientos cincuenta,,350,
+M185,Matemáticas,test,¿Cuál es mayor?,834|843,843,
+M186,Matemáticas,test,¿Cuál es menor?,905|890,890,
+M187,Matemáticas,ordenar,Ordena de menor a mayor,731|708|745,708|731|745,
+M188,Matemáticas,ordenar,Ordena de mayor a menor,990|975|982,990|982|975,
+M189,Matemáticas,arrastrar,Relaciona número y descomposición,106=1C0D6U|749=7C4D9U|381=3C8D1U,106=1C0D6U|749=7C4D9U|381=3C8D1U,
+M190,Matemáticas,arrastrar,Relaciona número y texto,700=setecientos|800=ochocientos|900=novecientos,700=setecientos|800=ochocientos|900=novecientos,
+M191,Matemáticas,escribir,Dado el número 365, escribe el anterior,,364,
+M192,Matemáticas,escribir,Dado el número 365, escribe el posterior,,366,
+M193,Matemáticas,test,¿Cuál número tiene 0 decenas?,804|840|480,804,
+M194,Matemáticas,test,¿Cuál número tiene 5 centenas?,560|650|506,506,
+M195,Matemáticas,escribir,¿Cuántas centenas hay en 543?,,5,
+M196,Matemáticas,test,¿Cuál es la centena más próxima a 851?,800|900,900,
+M197,Matemáticas,test,¿Cuál es la centena más próxima a 649?,600|700,600,
+M198,Matemáticas,escribir,Escribe tres números cuya centena más próxima sea 700,,680 710 699,
+M199,Matemáticas,test,¿Qué número se forma con 3, 8 y 6?,386|368|836,386,
+M200,Matemáticas,escribir,Forma un número con 2 centenas y 8 unidades,,208,
+M201,Matemáticas,test,¿Cuál es correcto?,9 centenas = 900|9 centenas = 90,9 centenas = 900,
+M202,Matemáticas,test,¿Qué número tiene más valor?,764|746,764,
+M203,Matemáticas,escribir,¿Cuántas decenas hay en 420?,,42,
+M204,Matemáticas,test,¿Qué viene antes en la serie? 60, 50, 40, __,30|35|45,30,
+M205,Matemáticas,escribir,Completa la serie: 500, 520, __, 560,,540,
+M206,Matemáticas,test,¿Qué número es impar?,640|753|820,753,
+M207,Matemáticas,test,¿Qué número es par?,815|729|604,604,
+M208,Matemáticas,arrastrar,Relaciona número y centena,581=500|734=700|962=900,581=500|734=700|962=900,
+M209,Matemáticas,escribir,¿Qué número tiene 3 centenas y 2 unidades?,,302,
+M210,Matemáticas,test,¿Cuál está más cerca de 900?,889|912,912,
+M211,Matemáticas,escribir,Escribe el número con 6 centenas y 1 unidad,,601,
+M212,Matemáticas,test,¿Qué número es mayor que 910?,908|915|905,915,
+M213,Matemáticas,escribir,¿Cuántas unidades tiene el número 670?,,0,
+M214,Matemáticas,test,¿Qué número NO tiene centenas?,87|405|612,87,
+M215,Matemáticas,escribir,Escribe el número posterior a 999,,1000,
+M216,Matemáticas,test,¿Cuál es correcto?,10 centenas = 1000|10 centenas = 100,10 centenas = 1000,
+M217,Matemáticas,ordenar,Ordena de menor a mayor,845|832|860,832|845|860,
+M218,Matemáticas,ordenar,Ordena de mayor a menor,915|902|908,915|908|902,
+M219,Matemáticas,escribir,¿Qué número tiene 9 centenas, 1 decena y 2 unidades?,,912,
+M220,Matemáticas,test,¿Cuál número tiene 4 centenas?,402|240|204,402,
+M221,Matemáticas,escribir,Descompón 642,,6C 4D 2U,
+M222,Matemáticas,test,¿Cuál número tiene 7 decenas?,470|407|704,470,
+M223,Matemáticas,escribir,¿Qué número es “ochocientos noventa”?,,890,
+M224,Matemáticas,test,¿Cuál es mayor?,908|890,908,
+M225,Matemáticas,escribir,Completa: 650, 660, __, 680,,670,
+M226,Matemáticas,test,¿Qué número tiene 5 unidades?,485|450|458,485,
+M227,Matemáticas,escribir,¿Cuántas centenas tiene 890?,,8,
+M228,Matemáticas,test,¿Cuál es la centena más próxima a 751?,700|800,800,
+M229,Matemáticas,escribir,Aproxima 722 a la centena más cercana,,700,
+M230,Matemáticas,test,¿Qué número es correcto?,800 + 10 = 810|800 + 10 = 801,800 + 10 = 810,
+M231,Matemáticas,escribir,Suma una decena a 540,,550,
+M232,Matemáticas,test,¿Cuál número tiene 4 decenas?,340|304|430,340,
+M233,Matemáticas,escribir,Escribe el número anterior a 650,,649,
+M234,Matemáticas,test,¿Cuál es el ordinal de 3?,tercero|tres|treinta,tercero,
+M235,Matemáticas,escribir,Escribe el número posterior a 899,,900,
+M236,Matemáticas,test,¿Qué número tiene 0 unidades?,520|502|250,520,
+M237,Matemáticas,escribir,¿Cuál es la centena del número 764?,,700,
+M238,Matemáticas,test,¿Qué número está entre 699 y 701?,698|700|702,700,
+M239,Matemáticas,escribir,Forma un número con 5 centenas y 9 decenas,,590,
+M240,Matemáticas,test,¿Cuál número tiene más valor?,928|892,928,
+M241,Matemáticas,escribir,¿Qué número tiene 2 centenas, 0 decenas y 4 unidades?,,204,
+M242,Matemáticas,test,¿Cuál de estos números tiene 6 decenas?,460|406|640,460,
+M243,Matemáticas,escribir,Descompón 918,,9C 1D 8U,
+M244,Matemáticas,test,¿Cuál número tiene 3 unidades?,703|730|370,703,
+M245,Matemáticas,escribir,¿Qué número es “cuatrocientos noventa y cinco”?,,495,
+M246,Matemáticas,test,¿Cuál es mayor?,905|950,950,
+M247,Matemáticas,escribir,Completa la serie: 900, 890, __, 870,,880,
+M248,Matemáticas,test,¿Qué número es impar?,812|905|640,905,
+M249,Matemáticas,escribir,¿Cuántas decenas hay en 590?,,59,
+M250,Matemáticas,test,¿Cuál es la centena más próxima a 888?,800|900,900,
