@@ -16,16 +16,15 @@ function shuffle(array){
 function login(){
   const name = document.getElementById('name').value.trim();
   usuarioActual = name
-  subjectSelected = "Lengua";
+  subjectSelected = "Lengua" //document.getElementById('subject').value;
 
   if(!name){ alert('Introduce tu nombre'); return; }
-  //if(!subjectSelected){ alert('Elige una asignatura'); return; }
+  if(!subjectSelected){ alert('Elige una asignatura'); return; }
 
   if(document.getElementById('pass').value===PASS){
     document.getElementById('welcome').style.display='none';
     document.getElementById('game').style.display='block';
     startGame();
-    document.getElementById('subject').style.display='block';
   }else{
     alert('Contraseña incorrecta');
   }
@@ -34,6 +33,7 @@ function login(){
 async function startGame(){
   const r = await fetch('questions.csv');
   const t = await r.text();
+  // subjectSelected = document.getElementById('subject').value;
 
   questions = t.trim().split('\n').slice(1).map(l=>{
     const [id,asignatura,tipo,pregunta,opciones,respuesta,extra] = l.split(',');
@@ -49,15 +49,6 @@ async function startGame(){
   nextQ();
 }
 
-// Elegir una asginatura del combo
-function cambiarAsignatura() {
-  subjectSelected = document.getElementById('subject').value;
-  document.getElementById('welcome').style.display='none';
-  document.getElementById('game').style.display='block';
-  startGame();
-}
-
-// Siguiente pregunta
 function nextQ(){
   const q=document.getElementById('question');
   const a=document.getElementById('answers');
@@ -65,6 +56,7 @@ function nextQ(){
   const n=document.getElementById('next');
   const w=document.getElementById('writeAnswer');
   const c=document.getElementById('checkBtn');
+
 
   a.innerHTML='';
   f.innerText='';
@@ -105,16 +97,6 @@ function nextQ(){
       a.appendChild(b);
     });
   }
-
-  // Boton siguiente mostrado
-  document.getElementById("next").style.display = "block";
-
-  // Etiqueta borrada y desaparece
-  const divSol = document.getElementById("solucion");
-  if (divSol) {
-    divSol.style.display = "none";
-    divSol.innerText = "";  // opcional, limpia el texto
-  }
 }
 
 function normalize(t){ return t.trim().toLowerCase(); }
@@ -139,7 +121,7 @@ function finish(ok){
     f.innerText='💪 Inténtalo otra vez';
     // Inicio poner solucion
     document.getElementById("solucion").innerText =
-      "Solución: " + preguntaActual.respuesta;
+      "Solución: " + preguntaActual.respuesta_correcta;
     document.getElementById("solucion").style.display = "block";
     // Fin poner solucion
     // Inicio observabilidad
@@ -269,7 +251,7 @@ function checkOrderTouch(){
       '❌ No es correcto, prueba otra vez';
     // Inicio poner solucion
     document.getElementById("solucion").innerText =
-      "Solución: " + preguntaActual.respuesta;
+      "Solución: " + preguntaActual.respuesta_correcta;
     document.getElementById("solucion").style.display = "block";
     // Fin poner solucion
     // Inicio observabilidad
