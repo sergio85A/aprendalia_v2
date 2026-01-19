@@ -16,7 +16,7 @@ function shuffle(array){
 function login(){
   const name = document.getElementById('name').value.trim();
   usuarioActual = name
-  subjectSelected = "Lengua" //document.getElementById('subject').value;
+  subjectSelected == "Lengua" //document.getElementById('subject').value;
 
   if(!name){ alert('Introduce tu nombre'); return; }
   if(!subjectSelected){ alert('Elige una asignatura'); return; }
