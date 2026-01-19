@@ -35,8 +35,8 @@ async function startGame(){
   const t = await r.text();
   // subjectSelected = document.getElementById('subject').value;
 
-  questions = t.trim().split(';').slice(1).map(l=>{
-    const [id,asignatura,tipo,pregunta,opciones,respuesta,extra] = l.split(',');
+  questions = t.trim().split('\n').slice(1).map(l=>{
+    const [id,asignatura,tipo,pregunta,opciones,respuesta,extra] = l.split(';');
     return {id,asignatura,tipo,pregunta,opciones,respuesta,extra};
   });
 
